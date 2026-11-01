@@ -1,37 +1,11 @@
-CodeAlpha Tasks
-
 Task 1: Calculator
 
-Calculator built using HTML, CSS and JavaScript.
+🚀 "Open Calculator" (https://vedantkilje.github.io/codealpha_tasks/calculator/)
 
-🚀 Live Demo: "Open Calculator" (https://vedantkilje.github.io/codealpha_tasks/calculator/)
-
-Technologies Used
-- HTML
-- CSS
-- JavaScript
-
-  
 Task 2: Image Gallery
 
-An interactive image gallery built using HTML, CSS and JavaScript.
-
-🚀 Live Demo: "Open Image Gallery" (https://vedantkilje.github.io/codealpha_tasks/image gallery/)
-
-
-Technologies Used
-- HTML
-- CSS
-- JavaScript
+🚀 "Open Image Gallery" (https://vedantkilje.github.io/codealpha_tasks/image%20gallery/)
 
 Task 3: Music Player
 
-A music player built using HTML, CSS and JavaScript.
-
-🚀 Live Demo: "Open Music Player" (https://vedantkilje.github.io/codealpha_tasks/music player/)
-
-
-Technologies Used
-- HTML
-- CSS
-- JavaScript
+🚀 "Open Music Player" (https://vedantkilje.github.io/codealpha_tasks/music%20player/)
