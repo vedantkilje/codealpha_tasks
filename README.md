@@ -16,7 +16,7 @@ Task 2: Image Gallery
 
 An interactive image gallery built using HTML, CSS and JavaScript.
 
-🚀 Live Demo: "Open Image Gallery" (https://vedantkilje.github.io/codealpha_tasks/image_gallery/)
+🚀 Live Demo: "Open Image Gallery" (https://vedantkilje.github.io/codealpha_tasks/image gallery/)
 
 
 Technologies Used
@@ -28,7 +28,7 @@ Task 3: Music Player
 
 A music player built using HTML, CSS and JavaScript.
 
-🚀 Live Demo: "Open Music Player" (https://vedantkilje.github.io/codealpha_tasks/music_player/)
+🚀 Live Demo: "Open Music Player" (https://vedantkilje.github.io/codealpha_tasks/music player/)
 
 
 Technologies Used
