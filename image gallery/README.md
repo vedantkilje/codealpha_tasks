@@ -24,4 +24,4 @@ The project allows users to browse images through a responsive gallery layout wi
 
 ## Source Code
 
-[View on GitHub](https://github.com/vedantkilje/codealpha/tree/main/image-gallery)
+[View on GitHub] https://github.com/vedantkilje/codealpha_tasks/tree/main/image%20gallery
