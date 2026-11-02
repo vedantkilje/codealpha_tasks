@@ -20,7 +20,7 @@ The project allows users to browse images through a responsive gallery layout wi
 
 ## Live Demo
 
-[View Image Gallery](YOUR_IMAGE_GALLERY_LIVE_LINK)
+[View Image Gallery] (https://vedantkilje.github.io/codealpha_tasks/image%20gallery/)
 
 ## Source Code
 
