@@ -25,4 +25,4 @@ The project allows users to play and control music through an interactive interf
 
 ## Source Code
 
-[View on GitHub](https://github.com/vedantkilje/codealpha/tree/main/music-player)
+[View on GitHub] https://github.com/vedantkilje/codealpha_tasks/tree/main/music%20player
