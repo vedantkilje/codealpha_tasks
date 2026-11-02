@@ -1,5 +1,3 @@
-(https://vedantkilje.github.io/codealpha_tasks/calculator/)
-
 # Calculator
 
 A basic calculator built using HTML, CSS and JavaScript as part of my Frontend Development Internship at CodeAlpha.
@@ -25,4 +23,4 @@ The project allows users to perform basic mathematical calculations through a si
 
 ## Source Code
 
-[View on GitHub]
+[View on GitHub] https://github.com/vedantkilje/codealpha_tasks/tree/main/calculator
