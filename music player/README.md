@@ -21,8 +21,7 @@ The project allows users to play and control music through an interactive interf
 
 ## Live Demo
 
-[View Music Player](YOUR_MUSIC_PLAYER_LIVE_LINK)
-
+[View Music Player] (https://vedantkilje.github.io/codealpha_tasks/music%20player/)
 ## Source Code
 
 [View on GitHub] https://github.com/vedantkilje/codealpha_tasks/tree/main/music%20player
